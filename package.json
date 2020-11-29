@@ -1,0 +1,27 @@
+{
+  "name": "res-api",
+  "version": "1.0.0",
+  "description": "Teste de servidor e api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevIsraelSantos/ServidorTeste.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "api"
+  ],
+  "author": "DevIsraelSantos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevIsraelSantos/ServidorTeste/issues"
+  },
+  "homepage": "https://github.com/DevIsraelSantos/ServidorTeste#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
